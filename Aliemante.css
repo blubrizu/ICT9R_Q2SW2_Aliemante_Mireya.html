@@ -1,0 +1,64 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	color: darkred;
+	text-align: center;
+}
+
+h2 {
+	color: 	maroon;
+	font-family:Verdana, Arial, sans-serif;
+}
+
+p {
+	text-align: left;
+}
+
+p.link {
+		text-align: right;
+		font-family: Verdana, Arial, sans-serif;
+
+	}
+
+table{
+	color: white;
+	background-color:maroon;
+}
+table, td, th {
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid;
+	border-color: white;
+	padding: 10px;
+	font-family:  Verdana, Arial, sans-serif;;
+	font-weight: bold;
+}
+
+th.days {
+	color: blue;
+}
+
+th.BF {
+	color: hotpink;
+}
+
+
+th.HEADER {
+	letter-spacing: 10;
+}
+
+p.link {
+	text-align: right;
+}
+
+
+button {
+	background-color: white	;
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	color: black;
+	border: 1px solid;
+
+}
